@@ -36,3 +36,4 @@ default_sampler = 'Euler a'
 [blacklist] # blacklisted generation words
 words = ['nsfw', 'nude', 'naked', 'pussy', 'vagina', 'dick', 'cock', 'penis', 'loli', 'shota', 'child', 'children']
 allow_in_negative = true # allow blacklisted words in negative prompt
+send_to_where = 5318008135
